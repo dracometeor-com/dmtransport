@@ -1,0 +1,3 @@
+[submodule "third-party/enet"]
+	path = third-party/enet
+	url = https://github.com/dracometeor-com/ENet-CSharp.git
